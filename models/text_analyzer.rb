@@ -37,6 +37,6 @@ class TextAnalyzer
       end
     end
     biggest
-    binding.pry
+    #binding.pry
   end
 end
